@@ -45,9 +45,7 @@ internal class Program
 
         Console.WriteLine("Thank you for using this program. Goodbye.");
 
-#if DEBUG
         Console.ReadLine(); // prevent pre-mature termination
-#endif
     }
 
     /// <summary>
