@@ -43,7 +43,7 @@ internal class Program
             Console.WriteLine();
         }
 
-        Console.WriteLine("Thank you for using this program. Press any key to exit the program. Goodbye.");
+        Console.WriteLine("Thank you for using this program. Press any key to exit. Goodbye.");
 
         Console.ReadLine(); // prevent pre-mature termination
     }
